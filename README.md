@@ -1,3 +1,6 @@
+Test Send Email SES (AWS)
+=======
+
 This script used for test send email using Simples Email Service (SES) - AWS
 
 ### Run as root
